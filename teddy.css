@@ -1,0 +1,38 @@
+.myVids {display:none}
+                            .w3-left, .w3-right, .w3-badge {cursor:pointer}
+                            .w3-badge {height:13px;width:13px;padding:0}
+							
+							.swiper-container {
+                        width: 100%;
+						height:auto;
+                        
+                    }
+							.swiper-wrapper {
+								
+							
+							}
+							
+							.swiper-pagination {
+                                #top : 95%;
+							
+							}
+							
+							.swiper-slide {
+							
+							
+							}
+                        
+                            @font-face {
+                                font-family: 'myRound';
+                                src : url('./RoundHand_Free.ttf');
+                                
+                            }
+                        
+                            .classname {
+                                font-family: 'myRound';
+                                padding:0px;
+                                margin-top:0px;
+                                color : #85714D;
+                            }
+                        
+                            h1{font-size:64px;}
